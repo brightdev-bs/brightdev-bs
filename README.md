@@ -2,5 +2,5 @@
  - Studying Software engineering
 
 ### How to reach me? :sparkles:
- - [!Gmail](https://img.shields.io/badge/%20-Gmail-red&logo=gmail)
+ - ![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brightdev.bs@gmail.com)]
 
