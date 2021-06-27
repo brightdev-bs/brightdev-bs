@@ -7,5 +7,6 @@
  - Personal Blog : [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=Bloglovin&link=https://brightmango.tistory.com/)](https://brightmango.tistory.com/)
 
 
+### My github status 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brightdev-bs)](https://github.com/anuraghazra/github-readme-stats)
 
