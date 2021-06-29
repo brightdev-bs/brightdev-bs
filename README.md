@@ -11,6 +11,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brightdev-bs)](https://github.com/anuraghazra/github-readme-stats)
 
 ### What I used for projects
-![what I used](https://github-readme-stats.vercel.app/api/top-langs/?username=brightdev-bs)
+![what I used](https://github-readme-stats.vercel.app/api/top-langs/?username=brightdev-bs&layout=compact)
 
 
