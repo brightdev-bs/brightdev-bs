@@ -10,6 +10,6 @@
 ### My github status 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brightdev-bs)](https://github.com/anuraghazra/github-readme-stats)
 
-github-readme-stats.vercel.app/api/top-langs/?username=&langs_count=8
+[what I used](github-readme-stats.vercel.app/api/top-langs/?username=&langs_count=8)
 
 
