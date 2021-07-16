@@ -1,5 +1,5 @@
 ### Hi there 👋
- - Studying Software engineering :computer:
+ - Studying Software engineering :computer: from 2020/03 ~ 
 
 
 ### How to reach me? :sparkles:
